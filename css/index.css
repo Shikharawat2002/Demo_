@@ -1,4 +1,14 @@
 /* css file  */
 body{
-    background-color: rgb(238, 229, 206);
+    background-color: rgb(255, 241, 248);
+}
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ 
+.styledButton{
+   border-radius: 5px;
+   padding:0px 15px 0px;
 }
